@@ -1,12 +1,8 @@
-package Methods;
-
 import java.util.Scanner;
-
 public class Number {
     Scanner sc = new Scanner(System.in);
 
     void calc(){
-
         int num1 =sc.nextInt();
         int num2 = sc.nextInt();
         int max =0;
