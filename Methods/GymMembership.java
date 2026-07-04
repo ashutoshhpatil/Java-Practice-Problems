@@ -31,7 +31,7 @@ public class GymMembership {
             membershipFee = membershipFee-(int)(membershipFee*discount);
             System.out.println("Discount "+(membershipFee*discount));
         }
-        return membershipFee;
+       return membershipFee;
     }
 
     public static void main(String[] args) {
