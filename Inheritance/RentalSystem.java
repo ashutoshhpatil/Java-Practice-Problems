@@ -1,7 +1,4 @@
-    package Inheritance;
-
     import java.util.Scanner;
-
     class Vehicle {
         Scanner sc = new Scanner(System.in);
         String vehicleNumber;
@@ -25,7 +22,7 @@
             System.out.println("Enter no of Days: ");
             noofDays = sc.nextInt();
         }
-
+        
         void dispDetails() {
             System.out.println("Vehicle Number: " + vehicleNumber);
             System.out.println("Model Name: " + model);
