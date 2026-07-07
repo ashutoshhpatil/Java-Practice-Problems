@@ -1,5 +1,3 @@
-package Inheritance;
-
 class Festival{
     String festivalName;
     String month;
