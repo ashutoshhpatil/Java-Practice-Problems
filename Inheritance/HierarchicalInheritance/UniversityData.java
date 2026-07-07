@@ -56,6 +56,7 @@ class postGrad extends University{
     }
 }
 
+
 public class UniversityData {
     public static void main(String[] args) {
         underGrad underGrad = new underGrad();
