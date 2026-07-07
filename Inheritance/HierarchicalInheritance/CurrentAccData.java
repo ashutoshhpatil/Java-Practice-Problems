@@ -1,6 +1,4 @@
-package Inheritance.HierarchicalInheritance;
-
-import org.w3c.dom.ls.LSOutput;
+ import org.w3c.dom.ls.LSOutput;
 
 class Bank{
     String bankName = "SBI";
