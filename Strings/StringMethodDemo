@@ -2,10 +2,10 @@ package Strings;
 
 public class StringMethodDemo {
     public static void main(String[] args) {
-        String name = "Ashutosh";
+        String name = "Ashutosh Patil";
         String city = "Pune";
         String email = "ashutosh@gmail.com";
-        String sentence = "Ashutosh is learning Java programming";
+        String sentence = "Im learning Java programming";
         String data = "Java,Python,Spring,SQL";
 
         System.out.println(name.length());
