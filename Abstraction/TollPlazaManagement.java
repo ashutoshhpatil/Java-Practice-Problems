@@ -8,8 +8,9 @@ abstract class TollPlaza{
     int gstAmount;
     int finalAmount;
     String vehicleStatus;
-    boolean checkToll;
     String tollStatus;
+    boolean checkToll;
+
 
     abstract void calcToll();
 
