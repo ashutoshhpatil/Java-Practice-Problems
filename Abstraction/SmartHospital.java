@@ -1,7 +1,5 @@
 package Abstraction;
 
-import java.util.Date;
-
 abstract class Hospital{
     String hospitalName = "KMCH";
     int docId;
