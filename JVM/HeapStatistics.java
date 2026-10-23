@@ -2,7 +2,7 @@ package JVM;
 
 public class HeapStatistics {
     public static void main(String[] args) {
-        float mb = 1024 *1024;
+        float mb = (1024 *1024);
 
         Runtime r = Runtime.getRuntime();
         System.out.println("Max Memory: "+r.maxMemory()/mb+ " MB");
