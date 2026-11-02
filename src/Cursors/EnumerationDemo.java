@@ -1,7 +1,5 @@
 package Cursors;
-
 import java.util.*;
-
 
 public class EnumerationDemo {
     public static void main(String[] args) {
@@ -9,8 +7,9 @@ public class EnumerationDemo {
         for(int i=0;i<=10;i++){
             v.addElement(i);
         }
+        
         System.out.println(v);
-
+        
         Enumeration e= v.elements();
 
         while (e.hasMoreElements()){
@@ -19,7 +18,5 @@ public class EnumerationDemo {
                 System.out.println("Even Number: "+i);
             }
         }
-
-
     }
 }
