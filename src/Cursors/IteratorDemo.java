@@ -1,5 +1,4 @@
 package Cursors;
-
 import java.util.ArrayList;
 import java.util.Iterator;
 
@@ -22,7 +21,5 @@ public class IteratorDemo {
                 }
         }
         System.out.println(al);
-
-
     }
 }
